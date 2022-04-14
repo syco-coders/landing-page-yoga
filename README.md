@@ -1,15 +1,15 @@
 <h1 align="center">Landing Page: Yoga Website</h1>
 
-## You can Have a look here [Website](https://deepakydv9315.github.io/yoga-landing-page/)
+## You can Have a look here [Website]https://syco-coders.github.io/landing-page-yoga/)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
-[![GitHub issues](https://img.shields.io/github/issues/deepakydv9315/yoga-landing-page)](https://github.com/deepakydv9315/yoga-landing-page/issues)
-[![GitHub forks](https://img.shields.io/github/forks/deepakydv9315/yoga-landing-page)](https://github.com/deepakydv9315/yoga-landing-page/network)
-[![GitHub stars](https://img.shields.io/github/stars/deepakydv9315/yoga-landing-page)](https://github.com/deepakydv9315/yoga-landing-page/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/syco-coders/landing-page-yoga)](https://github.com/syco-coders/landing-page-yoga/issues)
+[![GitHub forks](https://img.shields.io/github/forks/syco-coders/landing-page-yoga)](https://github.com/syco-coders/landing-page-yoga/network)
+[![GitHub stars](https://img.shields.io/github/stars/syco-coders/landing-page-yoga)](https://github.com/deepakydv9315/syco-coders/landing-page-yoga/stargazers)
 
 Are you a Newbie in Web development and want to dive deep into ?
 
@@ -24,7 +24,7 @@ Happy Submissions :slightly_smiling_face:
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better. 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/deepakydv9315/yoga-landing-page) repository.
+**1.**  Fork [this](https://github.com/syco-coders/landing-page-yoga) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -35,13 +35,13 @@ git clone https://github.com/<your_user_name>/yoga-landing-page.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd yoga-landing-page
+cd landing-page-yoga
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/deepakydv9315/yoga-landing-page.git 
+git remote add upstream https://github.com/syco-coders/landing-page-yoga.git 
 ```
 
 **5.** Check the remotes for this repository.
@@ -89,7 +89,7 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15** Voila :exclamation: You have made a PR to the awesome-javascript-projects :boom: . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila :exclamation: You have made a PR to the landing-page-yoga :boom: . Wait for your submission to be accepted and your PR to be merged.
 
 
 
