@@ -1,6 +1,6 @@
-<h1 align="center">Awesome JavaScript Projects</h1>
+<h1 align="center">Landing Page: Yoga Website</h1>
 
-## You can Have a look here [Website](https://vishal-raj-1.github.io/Awesome-JavaScript-Projects/)
+## You can Have a look here [Website](https://deepakydv9315.github.io/yoga-landing-page/)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
