@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page: Yoga Website</h1>
 
-## You can Have a look here [Website]https://syco-coders.github.io/landing-page-yoga/)
+## You can Have a look here [Website](https://syco-coders.github.io/landing-page-yoga/)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
